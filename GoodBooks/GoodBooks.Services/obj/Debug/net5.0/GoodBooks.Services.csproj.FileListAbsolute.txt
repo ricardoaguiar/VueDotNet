@@ -1,0 +1,12 @@
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/bin/Debug/net5.0/GoodBooks.Services.deps.json
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/bin/Debug/net5.0/GoodBooks.Services.dll
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/bin/Debug/net5.0/ref/GoodBooks.Services.dll
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/bin/Debug/net5.0/GoodBooks.Services.pdb
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/obj/Debug/net5.0/GoodBooks.Services.csproj.AssemblyReference.cache
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/obj/Debug/net5.0/GoodBooks.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/obj/Debug/net5.0/GoodBooks.Services.AssemblyInfoInputs.cache
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/obj/Debug/net5.0/GoodBooks.Services.AssemblyInfo.cs
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/obj/Debug/net5.0/GoodBooks.Services.csproj.CoreCompileInputs.cache
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/obj/Debug/net5.0/GoodBooks.Services.dll
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/obj/Debug/net5.0/ref/GoodBooks.Services.dll
+/Users/ricardoaguiar/Code/VueDotNet/GoodBooks/GoodBooks.Services/obj/Debug/net5.0/GoodBooks.Services.pdb
