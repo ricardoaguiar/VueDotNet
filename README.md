@@ -1,4 +1,4 @@
-# VueDotNet
+# VueDotNet / GoodBooks
 
 A project based on Wes Doyle Full-Stack Vue, .NET, PostgreSQL YouTube videos.
 
