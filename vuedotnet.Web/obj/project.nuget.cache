@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CypjVy9vf6RcJN59l+x5xxJrTERxsOATU1rU5O5sPO1zUWJmTRa3/4PgIoPViTYulaOGUHF0sBFTQgpLqj+H3g==",
+  "success": true,
+  "projectFilePath": "/Users/ricardoaguiar/Code/VueDotNet/vuedotnet.Web/vuedotnet.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/ricardoaguiar/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/ricardoaguiar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ricardoaguiar/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/ricardoaguiar/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/ricardoaguiar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/ricardoaguiar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
