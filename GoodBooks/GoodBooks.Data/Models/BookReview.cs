@@ -9,5 +9,7 @@ namespace GoodBooks.Data.Models
     public DateTime UpdatedOn{ get; set; }
     public string ReviewAuthor{ get; set; }
     public string ReviewContent{ get; set; }
-    }
+
+    public Book Book { get; set; }
+  }
 }
